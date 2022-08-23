@@ -52,7 +52,7 @@ tab（'\t'）分隔
 ### 训练集
 
 
-文件： [msra_train_bio.txt](msra_train_bio.txt)  
+文件： [train.txt](train.txt)  
 
 |句子数量|字符数量|LOC数量|ORG数量|PER数量|
 |:-:|:-:|:-:|:-:|:-:|
@@ -60,7 +60,7 @@ tab（'\t'）分隔
 
 ### 测试集
 
-文件： [msra_test_bio.txt](msra_test_bio.txt)
+文件： [test.txt](test.txt)
 
 |句子数量|字符数量|LOC数量|ORG数量|PER数量|
 |:-:|:-:|:-:|:-:|:-:|
